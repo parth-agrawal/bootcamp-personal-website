@@ -10,16 +10,25 @@ export const meta: MetaFunction = () => {
 
 const Header = () => (
   <header>
-    <h1>
+    <h1 className = "text-3xl font-bold">
       Parth's Site
     </h1>
     <nav>
       <ul>
         <li>
-          <a href = "/">Home</a>
+          <a href = "/" className = "hover:underline">Home</a>
         </li>
         <li>
-          <a href = "/about">About</a>
+          <a href = "/about" className = "hover:underline">About</a>
+        </li>
+      </ul>
+
+      <ul>
+        <li>
+          <a href = "https://github.com/parth-agrawal" className = "hover:underline">My Github</a>
+        </li>
+        <li>
+          <a href = "https://www.linkedin.com/in/productparth/" className = "hover:underline">My LinkedIn</a>
         </li>
       </ul>
     </nav>
