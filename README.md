@@ -1,36 +1,37 @@
-# Welcome to Remix + Vite!
+# Bootcamp Day 1
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
+Link to project template:
+https://docs.google.com/document/d/1R-GomMyaqCY2kMhFfzZaZ00KaNAnA7Kjf9qeTZOGpjM/edit#heading=h.84par5pw1zdg
 
-## Development
 
-Run the Vite dev server:
+Personal Website
 
-```shellscript
-npm run dev
-```
+Overview
+Your personal site will be unique to you, and will serve as a display of your portfolio projects. It will evolve throughout the course as you learn new things and become a more powerful programmer.
+Preparation
+Think about some things you would like to have on your personal website. Add them to the features list below.
+Features
+Your Personal Site should have the following:
+An about me page with a picture and a short bio
+Links to your github and linkedin (and other socials)
+A gallery of portfolio projects, with links to working projects
 
-## Deployment
+Bonus:
+A way for you and only you to easily add new projects to your project gallery, without modifying code
+Host it on vercel, point to a custom domain (yourname.com)
 
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
+Resources
+Boilerplate: Remix Boilerplate
+Deployment: Vercel
+Inspiration
+https://notes.andymatuschak.org/About_these_notes
+https://cguti.xyz/cv
+https://tambat.dev/about/
+https://ansonyu.me/
+https://www.nickfrosst.com/
+https://shravani.design/
+https://ajr.fyi/
+https://danielwu.fyi/
+https://shravani.design/
+https://worrydream.com/Home2011/
+https://root.vc

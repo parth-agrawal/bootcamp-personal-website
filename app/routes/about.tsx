@@ -3,7 +3,7 @@ export default function About (){
         <div>
 
         
-        <h1 className="text-2xl">
+        <h1 className="text-2xl font-bold underline">
             About    
         </h1>
         <p>
