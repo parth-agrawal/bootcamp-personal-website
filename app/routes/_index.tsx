@@ -21,16 +21,12 @@ const Header = () => (
         <li>
           <a href = "/about" className = "hover:underline">About</a>
         </li>
+        <li>
+          <a href = "/portfolio" className = "hover:underline">Portfolio</a>
+        </li>
       </ul>
 
-      <ul>
-        <li>
-          <a href = "https://github.com/parth-agrawal" className = "hover:underline">My Github</a>
-        </li>
-        <li>
-          <a href = "https://www.linkedin.com/in/productparth/" className = "hover:underline">My LinkedIn</a>
-        </li>
-      </ul>
+      
     </nav>
   </header>
 )
